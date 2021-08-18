@@ -1,3 +1,7 @@
 [submodule "McCulloch-Pitts-Artificial-Neuron"]
 	path = McCulloch-Pitts-Artificial-Neuron
 	url = https://github.com/SerSanC/McCulloch-Pitts-Artificial-Neuron.git
+
+[submodule "Perceptron-Projects"]
+	path = Perceptron-Projects
+	url = https://github.com/SerSanC/Perceptron-Projects.git
