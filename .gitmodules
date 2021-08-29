@@ -5,3 +5,7 @@
 [submodule "Perceptron-Projects"]
 	path = Perceptron-Projects
 	url = https://github.com/SerSanC/Perceptron-Projects.git
+
+[submodule "Multilayer-Perceptron-Projects"]
+	path = Multilayer-Perceptron-Projects
+	url = https://github.com/SerSanC/Multilayer-Perceptron-Projects	
